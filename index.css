@@ -1,0 +1,35 @@
+h1
+{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h2
+{
+    text-align: center;
+}
+
+p
+{
+    font-family: serif;
+}
+
+p2
+{
+    font-family: sans-serif;
+}
+
+p3
+{
+    font-family: fantasy;
+}
+
+p4
+{
+    font-family: cursive;
+}
+
+p5
+{
+    font-family: monospace;
+}
