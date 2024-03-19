@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Oleo+Script:wght@400;700&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Oleo+Script:wght@400;700&family=Satisfy&family=Yantramanav:wght@100;300;400;500;700;900&display=swap');
+
+
 h1
 {
     text-align: center;
@@ -11,25 +14,25 @@ h2
 
 p
 {
-    font-family: serif;
+    font-family:"crete round", serif;
 }
 
-p2
+#p2
 {
-    font-family: sans-serif;
+    font-family:"Yantramanav", sans-serif;
 }
 
-p3
+#p3
 {
-    font-family: fantasy;
+    font-family: "Fira code", monospace;
 }
 
-p4
+#p4
 {
-    font-family: cursive;
+    font-family:"Oleo Script", fantasy;
 }
 
-p5
+#p5
 {
-    font-family: monospace;
+    font-family: "Satisfy", cursive;
 }
